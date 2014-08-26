@@ -1,0 +1,22 @@
+===================================
+zeeTasty Changelog
+===================================
+
+Version 1.0.2
+-----------------------------------
+[added] image.php to display single gallery images
+[changed] replaced query_posts to display recent posts on 404.php
+[changed] escaped all home_url() functions with esc_url()
+[changed] escaped all permalink functions with esc_url()
+[fixed] make big logo images resizeable on mobile devices
+[fixed] select form element overflow bug
+
+Version 1.0.1
+-----------------------------------
+[fixed] sidebar image overflow bug
+[fixed] undefined index on theme options
+[changed] frontpage template loading
+
+Version 1.0
+-----------------------------------
+Initial Release
