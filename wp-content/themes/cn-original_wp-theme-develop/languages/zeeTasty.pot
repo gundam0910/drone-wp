@@ -348,7 +348,7 @@ msgid "Follow me on Twitter"
 msgstr ""
 
 #: includes/options/options-setup.php:94
-msgid "Become a Facebok Fan"
+msgid "Become a Facebook Fan"
 msgstr ""
 
 #: includes/options/options-setup.php:111
